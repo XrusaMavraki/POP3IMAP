@@ -1,0 +1,42 @@
+# ------------------------------
+# GMAIL SETTINGS
+#
+# pop.Host     = pop.gmail.com
+# pop.Port     = 995
+# imap.Host    = imap.gmail.com
+# imap.Port    = 993
+#
+# ------------------------------
+
+# ------------------------------
+# HOTMAIL SETTINGS
+#
+# pop.Host     = pop-mail.outlook.com
+# pop.Port     = 995
+# imap.Host    = imap-mail.outlook.com
+# imap.Port    = 993
+#
+# ------------------------------
+
+# ------------------------------
+# AUEB SETTINGS
+#
+pop.Host     = dias.aueb.gr
+pop.Port     = 110
+imap.Host    = dias.aueb.gr
+imap.Port    = 143
+#
+# ------------------------------
+
+# ------------------------------
+# Not used - Kept for compatibility with previous project
+# Connections are always secured.
+ssl          = yes
+tls          = no
+# ------------------------------
+
+# User credentials. Required pop prefix is for compatibility. It applies to
+# IMAP as well.
+
+pop.Username = 
+pop.Password = 
